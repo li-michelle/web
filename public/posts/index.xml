@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on mica li</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on mica li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 10:05:44 -0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latex Test</title>
+      <link>http://example.org/posts/latex-test/</link>
+      <pubDate>Fri, 16 Sep 2022 10:05:44 -0700</pubDate>
+      
+      <guid>http://example.org/posts/latex-test/</guid>
+      <description>Solve the following:
+\(f(x) = \frac{sin(k&amp;#43;0.5)x}{sin(0.5x)}\)show that \(x \ne 2\pi x\)</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 16 Sep 2022 08:33:25 -0700</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+[[entries]]
+title = "about"
+
+  [[entries.entries]]
+  title = "mathematics student at UCSD"
+
+  [[entries.entries]]
+  title = "tech chair @ <a href = 'https://sums.ucsd.edu'> UCSD SUMS </a>"
+
+
+ 
+
+# [[entries]]
+# title = "all posts"
+
+  # [entries.post_list]
+  # limit = 5
+  # show_more = true
+  # show_more_text = "See archive..."
+  # show_more_url = "posts"
+
+# [[entries]]
+# title = "posts by category"
+
+  # [entries.post_list]
+  # section = "posts"
+  # show_more = true
+  # show_more_text = "See more posts..."
+  # show_more_url = "posts"
+
+
+
+[[entries]]
+title = "links"
+
+  [[entries.entries]]
+  title = "email: myl010 at ucsd dot edu"
+
+  [[entries.entries]]
+  title = "<a href = 'https://www.linkedin.com/in/mica-li-499924211/'> linkedin</a>"
+
+  [[entries.entries]]
+  title = "<a href = 'https://github.com/li-michelle'> github</a>"
+
+  [[entries.entries]]
+  title = "made with hugo."
+
+
+
+
+
